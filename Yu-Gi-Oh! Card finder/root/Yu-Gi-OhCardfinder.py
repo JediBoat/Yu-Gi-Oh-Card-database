@@ -35,7 +35,6 @@ class ToplevelWindow(customtkinter.CTkToplevel):
         super().__init__(*args, **kwargs)
         self.geometry("1250x780")
         self.title("How to use")
-        self.wm_iconbitmap('icon2.ico')
 
         self.help_frame = customtkinter.CTkFrame(self, corner_radius=0, fg_color="transparent")
         self.help_frame.grid(row=0, column=1, sticky="ne")
@@ -61,7 +60,6 @@ class App(customtkinter.CTk):
 
         self.title("Yu-Gi-Oh Card Finder")#Sets the title of the application
         self.geometry("800x800")#set the width and size of application in minmized mode
-        self.wm_iconbitmap('icon2.ico')
 
         # Code underneath sets the grid layout 1x2
         self.grid_rowconfigure(0, weight=1)
