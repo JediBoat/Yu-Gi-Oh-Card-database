@@ -8,6 +8,6 @@ There a how to play button which teachs user how to naviagte through the app. Im
 
 To use my project you will need to set up your own database and add the cards in since my mine is inaccessible. You can do that through MYSQL workspace or freesql database.com https://www.freesqldatabase.com/
 ![image](https://github.com/JediBoat/Yu-Gi-Oh-Card-database/assets/121259910/5248c768-d778-47be-aa95-3998f0df65b7)
-
+To add cards to your database adjust the code show above in cardadder.py so it has the right information to access your dataabase then run it. It will store over 100 different cards on your database.
 
 
