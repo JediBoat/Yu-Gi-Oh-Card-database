@@ -6,5 +6,8 @@ There are mutiple buttons each which help the user navigate through the database
 There a how to play button which teachs user how to naviagte through the app. Image of the instructions is shown below
 ![image](https://github.com/JediBoat/Yu-Gi-Oh-Card-database/assets/121259910/4295b04b-c854-447e-86a6-d48af33adb6f)
 
+To use my project you will need to set up your own database and add the cards in since my mine is inaccessible. You can do that through MYSQL workspace or freesql database.com https://www.freesqldatabase.com/
+![image](https://github.com/JediBoat/Yu-Gi-Oh-Card-database/assets/121259910/5248c768-d778-47be-aa95-3998f0df65b7)
+
 
 
